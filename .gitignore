@@ -1,1 +1,6 @@
 venv/
+*.heic
+*.png
+*.HEIC
+!images/
+!images/*.png
